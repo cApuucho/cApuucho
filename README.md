@@ -53,5 +53,5 @@ Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cApuucho&show_icons=true&theme=dark)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cApuucho&show_icons=true&theme=dark)
 [![cApuucho](https://github-readme-stats.vercel.app/api/top-langs/?username=cApuucho&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
