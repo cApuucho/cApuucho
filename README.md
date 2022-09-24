@@ -2,11 +2,17 @@
 ## 💻 Olá, Meu nome é <strong>Rafael!</strong>
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
 
-🎮 Sou apaixonado por videogames, natureza e tecnologias no geral.
+🎮 Hobbies: <br>
+Sou apaixonado por videogames, natureza e tecnologias no geral. Também gosto de passar tempo com a família, viajar, assistir filmes e séries.
 
-🚀  Estudante de Desenvolvimento Web Full Stack na GrowDev.
+<br>
 
-💬 
+🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
+
+<br>
+
+💬 Experiências Profissionais: <br>
+Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 
 ---
 
