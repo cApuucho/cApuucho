@@ -1,7 +1,6 @@
 
 ## 💻 Olá, Seja Bem-Vindo(a)
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
-<br>
 
 🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
 
@@ -14,6 +13,38 @@ Sou apaixonado por videogames, natureza e tecnologias no geral. Também gosto de
 
 💬 Experiências Profissionais: <br>
 Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
+
+💌 Entre em contato comigo:⤵️
+
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/capuucho/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&">
+</a>
+
+<!-- Email -->
+<a href="mailto:cApuucho11@outlook.com" alt="Email" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/+5512992278339" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/_capuchinho/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<!-- Discord -->
+<a href="http://discordapp.com/users/cApucho#7881" alt="Discord" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<!-- Steam -->
+<a href="https://steamcommunity.com/id/cAppuuccino/" alt="Steam" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+</a>
 
 ---
 
