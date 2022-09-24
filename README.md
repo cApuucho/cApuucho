@@ -1,13 +1,14 @@
 
-## 💻 Olá, Meu nome é <strong>Rafael!</strong>
+## 💻 Olá, Seja Bem-Vindo(a)
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
-
-🎮 Hobbies: <br>
-Sou apaixonado por videogames, natureza e tecnologias no geral. Também gosto de passar tempo com a família, viajar, assistir filmes e séries.
-
 <br>
 
 🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
+
+<br>
+
+🎮 Hobbies: <br>
+Sou apaixonado por videogames, natureza e tecnologias no geral. Também gosto de passar tempo com a família, viajar, assistir filmes e séries.
 
 <br>
 
@@ -32,4 +33,4 @@ Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cApuucho&show_icons=true&theme=dark)<br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=cApuucho&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![cApuucho](https://github-readme-stats.vercel.app/api/top-langs/?username=cApuucho&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
