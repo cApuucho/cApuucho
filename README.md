@@ -18,22 +18,22 @@ Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/capuucho/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&" target="_blank">
 </a>
 
 <!-- Email -->
 <a href="mailto:cApuucho11@outlook.com" alt="Email" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank">
 </a>
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/_capuchinho/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
 </a>
 
 <!-- Steam -->
 <a href="https://steamcommunity.com/id/cAppuuccino/" alt="Steam" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" target="_blank">
 </a>
 
 ---
