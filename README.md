@@ -2,6 +2,8 @@
 ## 💻 Olá, Seja Bem-Vindo(a)
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
 
+Sou o Rafael: <br>
+
 🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | <br> Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
 
 <br>
