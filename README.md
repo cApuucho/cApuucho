@@ -9,7 +9,8 @@ Sou o Rafael: <br>
 Escolhi a programação pelas infinitas possibilidades que ela pode me proporcionar e onde posso chegar. Além do fato de estar totalmente determinado a trabalhar como desenvolvedor, fico contente com o que a área pode me oferecer, como por exemplo, trabalhar de qualquer lugar do mundo, algo que sempre despertou meu interesse. Continuarei buscando conhecimentos para ingressar na área e desenvolver minha carreira.
 
 🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | <br> Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
- Programa ONE - Oracle Next Education
+
+
 <br>
 
 🎮 Hobbies: <br>
