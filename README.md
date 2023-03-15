@@ -60,4 +60,4 @@ Sales Assistant and Restaurant Helper (2 Years).<br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cApuucho&show_icons=true&theme=dark)
 [![cApuucho](https://github-readme-stats.vercel.app/api/top-langs/?username=cApuucho&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-<!-- ![Snake animation](https://github.com/cApuucho/cApuucho/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/cApuucho/cApuucho/blob/output/github-contribution-grid-snake.svg)
