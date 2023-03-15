@@ -1,27 +1,24 @@
 
-## 💻 Olá, Seja Bem-Vindo(a)
+
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
+Hello! I'm Rafael 👋 <br><br>
 
-Sou o Rafael: <br>
+• 💻 Studying Full Stack Web Development by GrowDev.<br><br>
+• 💻 Learning HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS.<br><br>
 
-⭐ Estudante de Desenvolvimento Web Full Stack pela GrowDev, apaixonado por videogames e tecnologias em geral. Dentre minhas características destacam-se a proatividade, empatia e responsabilidade.
-
-Escolhi a programação pelas infinitas possibilidades que ela pode me proporcionar e onde posso chegar. Além do fato de estar totalmente determinado a trabalhar como desenvolvedor, fico contente com o que a área pode me oferecer, como por exemplo, trabalhar de qualquer lugar do mundo, algo que sempre despertou meu interesse. Continuarei buscando conhecimentos para ingressar na área e desenvolver minha carreira.
-
-🚀 Formação: <br> Curso CODAÍ 2.0 (Growdev) | <br> Estudante de Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
+🚀 Training:<br>
+Full Stack Web Development student at <a href="https://growdev.com.br">GrowDev</a>.<br>
+Studying a Bachelor's Degree in Software Engineering through Estácio.<br><br>
 
 
-<br>
+🎮 Hobbies:<br>
+I'm passionate about video games, nature and technologies in general. I also like spending time with my family, traveling, watching movies and series.<br><br>
 
-🎮 Hobbies: <br>
-Sou apaixonado por videogames, natureza e tecnologias no geral. Também gosto de passar tempo com a família, viajar, assistir filmes e séries.
 
-<br>
+💬 Professional Experiences:<br>
+Sales Assistant and Restaurant Helper (2 Years).<br><br>
 
-💬 Experiências Profissionais: <br>
-Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
-
-💌 Entre em contato comigo:⤵️
+💌 Contact me:⤵️
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/capuucho/" alt="Linkedin" target="_blank">
@@ -45,7 +42,7 @@ Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My skills
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -59,6 +56,8 @@ Auxiliar de Vendas e Ajudante de Restaurante (2 Anos).
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cApuucho&show_icons=true&theme=dark)
 [![cApuucho](https://github-readme-stats.vercel.app/api/top-langs/?username=cApuucho&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<!-- ![Snake animation](https://github.com/cApuucho/cApuucho/blob/output/github-contribution-grid-snake.svg) -->
