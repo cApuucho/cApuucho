@@ -3,8 +3,8 @@
 <img src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif" width="300px" align="right" alt="Computador iuriCode"/>
 Hello! I'm Rafael 👋 <br><br>
 
-• 💻 Studying Full Stack Web Development by GrowDev.<br><br>
-• 💻 Learning HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS.<br><br>
+• 💻 Studying Full Stack Web Development.<br><br>
+• 💻 Learning HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS, Java, Kotlin.<br><br>
 
 🚀 Training:<br>
 Full Stack Web Development student.<br>
