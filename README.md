@@ -7,7 +7,7 @@ Hello! I'm Rafael 👋 <br><br>
 • 💻 Learning HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS.<br><br>
 
 🚀 Training:<br>
-Full Stack Web Development student at <a href="https://growdev.com.br" target="_blank">GrowDev</a>.<br>
+Full Stack Web Development student.<br>
 Studying a Bachelor's Degree in Software Engineering through Estácio.<br><br>
 
 
